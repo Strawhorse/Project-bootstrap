@@ -1,0 +1,41 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Gideon Roman', cursive;
+    background: url(Background.jpg) no-repeat center center fixed;
+    /* Source: https://unsplash.com/photos/41xHdTcuWq0 */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+img{
+  z-index: -1;
+}
+
+.dropdown-item{
+  color: #C2C2C1;
+}
+
+.sources{
+  color: #C2C2C1;
+}
+
+.text-uppercase{
+  font-size: 2rem;
+  color: #C2C2C1;
+}
+
+li{
+  font-size: 1.2rem;
+  color: #C2C2C1;
+
+}
+
+.sourcing{
+  width: 750px;
+  line-height: 2.2;
+  list-style-type: square;
+}
